@@ -63,8 +63,13 @@ public static String capture(WebDriver driver) throws IOException {
 		return errflpath;
 		}
 
+
 public void gitcheck()
 {
-	
+}	
+
+public void person1()
+{
+
 }
 }
