@@ -62,4 +62,8 @@ public static String capture(WebDriver driver) throws IOException {
 		FileUtils.copyFile(scrFile, Dest);
 		return errflpath;
 		}
+
+public void person1()
+{
+}
 }
